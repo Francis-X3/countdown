@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+
+}
+#countdown{
+  background-color: aqua;
+  text-align: center;
+  font-size: 100px;
+  
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
